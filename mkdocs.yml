@@ -1,0 +1,9 @@
+site_name: CROCPOT
+nav:
+    - Home: index.md
+    - Quick Start: quickstart.md
+    - Upload your Chromatin Study Track:
+      - Convert BED file to Tabix: tabix.md
+      - Upload BED & Tabix to AWS S3: s3.md
+      - Upload BED & Tabix to local server: local-server.md
+theme: readthedocs
